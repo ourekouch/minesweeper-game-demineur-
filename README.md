@@ -1,4 +1,4 @@
 # minesweeper-game-demineur-
-This version of the game is the primary version only without graphics interfaces
-the python file "demineur.py" contain all functions and main programm
+![image](https://image.jeuxvideo.com/medias/154754/1547544697-3967-jaquette-avant.png)
+basic implementation of the  Game Dimineur in console using python 
 #mounir_ourekouch
